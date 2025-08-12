@@ -1,4 +1,4 @@
-# electroluxumraniyeservisi
+# Electrolux Ümraniye Yetkili Servisi
 Copyright (c) 2025 Xmer™ 
 
 Bu yazılım, GNU Affero General Public License v3.0 (AGPLv3) altında lisanslanmıştır.
